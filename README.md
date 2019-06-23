@@ -1,2 +1,4 @@
 # Testing123
-First steps in Github. Trying to understand what it is.
+This one is my very first aproach to github.
+I'm just writting silly things to fill up the 'readme'-shit.
+thanks
